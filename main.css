@@ -1,0 +1,28 @@
+body{
+    background-color: skyblue;
+    margin: 20px;
+    font-size: 30px;
+    border: 20px;
+    border: crimson;
+}
+
+.wrapper{
+    border: 10px solid crimson;
+    background-color: yellow;
+    width: 300px;
+}
+
+.Class1{
+    color: royalblue;
+    background-color: purple;
+}
+
+.Class2{
+    color: orange;
+    background-color: red;
+}
+
+#ID1{
+    color: silver;
+    background-color: slateblue;
+}
